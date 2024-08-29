@@ -12,3 +12,5 @@ Apaixonado por tecnologia desde criança.
 Atualmente estou em transição de carreira para área da Cloud e Programação!
 Tenho como objetivo crescer, adquirir e transmitir meus conhecimentos profissionais e pessoais, 
 para poder colaborar por um mundo mais Tech e inclusivo. 🚀
+
+![WebertCoimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=WebertCoimbra&show_icons=true&theme=tokyonight&locale=pt-br)
